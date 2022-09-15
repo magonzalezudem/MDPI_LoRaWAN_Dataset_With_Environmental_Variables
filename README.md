@@ -1,4 +1,4 @@
-# MDPI LoRaWAN Dataset with Environmental Variables
+# MDPI LoRaWAN Path Loss Dataset including environmental variables
 This dataset includes a measurement campaign for LoRaWAN End Nodes measuring path loss and environmental variables. For this end, we have deployed a LoRaWAN network in Medellín, Colombia, for four months, as shown in Fig 1:
 
 ![alt text](https://github.com/magonzalezudem/MDPI_LoRaWAN_Dataset_With_Environmental_Variables/blob/main/Architecture.png)
@@ -42,3 +42,4 @@ The measurement campaign includes the following fields:
 - **splm**: Simplified path loss model or log-distance empirical model estimation in dB
 - **okumura-hata**: Path loss estimated using the Okumura-Hata approach in dB
 
+This dataset can be used to estimate the impact of the weather changes in path loss for LoRaWAN deployments, and get more accurate tracking/positioning data or more efficient energy reduction strategies.
