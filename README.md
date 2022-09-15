@@ -1,4 +1,4 @@
-# MDPI LoRaWAN Path Loss Dataset including environmental variables
+# MDPI LoRaWAN Path Loss Dataset including Environmental Variables
 This dataset includes a measurement campaign for LoRaWAN End Nodes measuring path loss and environmental variables. For this end, we have deployed a LoRaWAN network in Medellín, Colombia, for four months, as shown in Fig 1:
 
 ![alt text](https://github.com/magonzalezudem/MDPI_LoRaWAN_Dataset_With_Environmental_Variables/blob/main/Architecture.png)
